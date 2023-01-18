@@ -27,8 +27,13 @@ Download baccarat.exe from the bin/release file to launch the software ([Can be 
 In this section, I'll describe how the code works and in what order.
 Baccarat is a point-scoring game played with 8 decks of cards, where each number indicates its own score and the number 10 and pictures like J Q K offers no points.
 
--Create 8 Decks of 1-2-3-4-5-6-7-8-9 and 0-0-0-0 
--Shuffle
--Cards are dealt to the Player and Banker one by one from the shuffled deck
--Checking whether there is a natural winner.
+-Create 8 Decks of 1-2-3-4-5-6-7-8-9 and 0-0-0-0 \
+-Shuffle\
+-Cards are dealt to the Player and Banker one by one from the shuffled deck\
+-Checking whether there is a natural winner.\
 -Draw phase or End result
+
+##To-Do and Other Implementation
+The executable file contains procedures on how the entire game plays in its current state. In the future version, I will be implementing a new file with only outcome displays.
+
+Aside from this technique, I believe it is also possible to use a queue.
