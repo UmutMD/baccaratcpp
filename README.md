@@ -1,10 +1,10 @@
 # Baccarat in C++
 
-##Introduction
+## Introduction
 
 It's a C++ version of the famous card game Baccarat. The player who comes closest to 9 points wins this game, which is played between the Player and the Banker. A tie situation is possible. If a participant's score falls below a specific threshold, he or she may draw another card; the maximum number of cards can be dealt is six.
 
-##Dependencies
+## Dependencies
 
 The following libraries and dependencies were utilised when developing the application and can be found in the Baccarat.depend file:
 
