@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1674004337 source:c:\users\umut\onedrive\masaüstü\assesment\1\baccarat\main.cpp
+	<iostream>
+	<fstream>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+	<stdio.h>
+	<time.h>
+
