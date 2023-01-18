@@ -22,7 +22,7 @@ The following libraries and dependencies were utilised when developing the appli
 
 Download baccarat.exe from the bin/release file to launch the software ([Can be found here](https://github.com/UmutMD/baccaratcpp/tree/master/bin/Release)). Windows will issue the standard warnings because it is in executable format; if you accept and continue, the running executable will play a game of Baccarat for you.
 
-##Code Rundown
+## Code Rundown
 
 In this section, I'll describe how the code works and in what order.
 Baccarat is a point-scoring game played with 8 decks of cards, where each number indicates its own score and the number 10 and pictures like J Q K offers no points.
@@ -33,7 +33,7 @@ Baccarat is a point-scoring game played with 8 decks of cards, where each number
 -Checking whether there is a natural winner.\
 -Draw phase or End result
 
-##To-Do and Other Implementation
+## To-Do and Other Implementation
 The executable file contains procedures on how the entire game plays in its current state. In the future version, I will be implementing a new file with only outcome displays.
 
 Aside from this technique, I believe it is also possible to use a queue.
